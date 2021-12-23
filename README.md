@@ -1,6 +1,6 @@
 # DT's Wallpaper Collection
 
-**This is a fork of [DT's wallpapers]{https://gitlab.com/dwt1/wallpapers} with additional nix flake configuration.**
+**This is a fork of [DT's wallpapers](https://gitlab.com/dwt1/wallpapers) with additional nix flake configuration.**
 
 ![Screenshot of my desktop](https://gitlab.com/dwt1/dotfiles/raw/master/.screenshots/dotfiles10.png)
 
